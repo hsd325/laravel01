@@ -27,3 +27,11 @@
 網址為本機網址後面加【/admin】<br>
 帳號:111<br>
 密碼:111<br>
+
+登入次數
+![螢幕擷取畫面 2024-06-11 175241](https://github.com/hsd325/laravel01/assets/100175482/3ef85a96-e3ce-42d7-a3a1-b6b984cb4a29)
+
+更換語言，對應前端的語系，每個語系的內容都是獨立的
+![螢幕擷取畫面 2024-06-11 175407](https://github.com/hsd325/laravel01/assets/100175482/999092f8-cc75-4bfd-8fab-94b7cfdf7f8e)
+
+
