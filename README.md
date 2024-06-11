@@ -9,7 +9,7 @@
 注意: 需下載node.js才能使用
 ![螢幕擷取畫面 (249)](https://github.com/hsd325/laravel01/assets/100175482/1923d210-ee41-4f0d-a614-190cda2721e8)
 
-3.將【.env.example】複製並改名成【.evn】
+3.將【.env.example】複製並改名成【.evn】<br>
 終端機指令 : cp .env.example .env
 ![螢幕擷取畫面 (248)](https://github.com/hsd325/laravel01/assets/100175482/3453c318-5b34-42af-b7b1-424ed50ce8cb)
 
