@@ -28,6 +28,8 @@
   <script src="/js/admin/sweetalert2.all.min.js"></script>
   <link href="/css/admin/sweetalert2.min.css">
   <!-- 上方為sweet2的前置 -->
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 
 <body class="hold-transition sidebar-mini layout-fixed">
@@ -139,7 +141,7 @@
         @if (!empty(session()->get("lanList")))
         <li class="nav-item dropdown">
           <a class="nav-link" data-toggle="dropdown" href="#">
-            <i class="far fa-globe"></i> <!-- 更改圖標 -->
+            <i class="fas fa-globe"></i> <!-- 語系的圖標 -->
           </a>
           <div class="dropdown-menu dropdown-menu-lg dropdown-menu-right">
             <span class="dropdown-item dropdown-header">語系</span>
