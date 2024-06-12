@@ -18,12 +18,17 @@
 5.資料庫在SQL資料夾裡面，解壓縮後，去phpmyadmin進行匯入
 
 6.執行laravel<br>
- php artisan serve
+ php artisan serve<br>
 ![螢幕擷取畫面 (250)](https://github.com/hsd325/laravel01/assets/100175482/26b2e1f7-e9c8-4331-a4ad-8230d03a72c5)
 
 # 前端畫面
-首頁
-![螢幕擷取畫面 2024-06-11 164624](https://github.com/hsd325/laravel01/assets/100175482/4de0cf33-751b-47e4-b75a-20f386b4fbeb)
+## 首頁
+語系有中文和英文，彼此內容是獨立的，內容可到後臺管理系統進行更改<br><br>
+中文<br>
+![螢幕擷取畫面 (251)](https://github.com/hsd325/laravel01/assets/100175482/7da267e3-1379-4b7d-9848-14cc7a48640e)
+
+英文
+![螢幕擷取畫面 (252)](https://github.com/hsd325/laravel01/assets/100175482/61fe1b65-2003-4f56-9147-957695dd4792)
 
 # 後臺管理系統
 網址為本機網址後面加【/admin】<br>
