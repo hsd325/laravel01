@@ -46,7 +46,7 @@
 更換語言，對應前端的語系，每個語系的內容都是獨立的
 ![螢幕擷取畫面 2024-06-11 175407](https://github.com/hsd325/laravel01/assets/100175482/999092f8-cc75-4bfd-8fab-94b7cfdf7f8e)
 
-# 使用工具
+# 作品技術
 - Laravel 8
 - Composer V2.7.6
 - Bootstrap v4.6.1
