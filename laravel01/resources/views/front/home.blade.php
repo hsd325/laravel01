@@ -10,7 +10,7 @@
     @foreach($product as $data)
     <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
         <div class="hover ehover13">
-            <a href="#" onclick="doNext('{{ $data->id }}')">
+            <a href="product/detail/{{ $data->id }}" onclick="doNext('{{ $data->id }}')">
                 <img src="/images/product/{{ $data->photo}}" class="img-responsive">
                 <div class="overlay">
                     <h2>{{ $data->subName }}</h2>
